@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+p{
+    text-align: center;
+    line-height: 100vh;
+    /* vertical-al1ign: middle;
+    padding-top: 50vh;
+    padding-bottom: 50vh; */
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 5vh;
+    text-decoration: underline;
+}
